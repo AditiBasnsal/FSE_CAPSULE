@@ -1,0 +1,24 @@
+C:\Users\Admin\Downloads\FseCapsule-master (1)\FseCapsule-master\server\SPA_WebAPI\SPA_DL\bin\Debug\SPA_DL.dll.config
+C:\Users\Admin\Downloads\FseCapsule-master (1)\FseCapsule-master\server\SPA_WebAPI\SPA_DL\bin\Debug\SPA_DL.dll
+C:\Users\Admin\Downloads\FseCapsule-master (1)\FseCapsule-master\server\SPA_WebAPI\SPA_DL\bin\Debug\SPA_DL.pdb
+C:\Users\Admin\Downloads\FseCapsule-master (1)\FseCapsule-master\server\SPA_WebAPI\SPA_DL\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\FseCapsule-master (1)\FseCapsule-master\server\SPA_WebAPI\SPA_DL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\FseCapsule-master (1)\FseCapsule-master\server\SPA_WebAPI\SPA_DL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\FseCapsule-master (1)\FseCapsule-master\server\SPA_WebAPI\SPA_DL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\FseCapsule-master (1)\FseCapsule-master\server\SPA_WebAPI\SPA_DL\obj\Debug\SPA_DL.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\FseCapsule-master (1)\FseCapsule-master\server\SPA_WebAPI\SPA_DL\obj\Debug\SPA_DL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\FseCapsule-master (1)\FseCapsule-master\server\SPA_WebAPI\SPA_DL\obj\Debug\SPA_DL.csproj.CopyComplete
+C:\Users\Admin\Downloads\FseCapsule-master (1)\FseCapsule-master\server\SPA_WebAPI\SPA_DL\obj\Debug\SPA_DL.dll
+C:\Users\Admin\Downloads\FseCapsule-master (1)\FseCapsule-master\server\SPA_WebAPI\SPA_DL\obj\Debug\SPA_DL.pdb
+C:\Users\Admin\Desktop\FSE\FseCapsule-master\FseCapsule-master\server\SPA_WebAPI\SPA_DL\bin\Debug\SPA_DL.dll.config
+C:\Users\Admin\Desktop\FSE\FseCapsule-master\FseCapsule-master\server\SPA_WebAPI\SPA_DL\bin\Debug\SPA_DL.dll
+C:\Users\Admin\Desktop\FSE\FseCapsule-master\FseCapsule-master\server\SPA_WebAPI\SPA_DL\bin\Debug\SPA_DL.pdb
+C:\Users\Admin\Desktop\FSE\FseCapsule-master\FseCapsule-master\server\SPA_WebAPI\SPA_DL\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\FSE\FseCapsule-master\FseCapsule-master\server\SPA_WebAPI\SPA_DL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\FSE\FseCapsule-master\FseCapsule-master\server\SPA_WebAPI\SPA_DL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\FSE\FseCapsule-master\FseCapsule-master\server\SPA_WebAPI\SPA_DL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\FSE\FseCapsule-master\FseCapsule-master\server\SPA_WebAPI\SPA_DL\obj\Debug\SPA_DL.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\FSE\FseCapsule-master\FseCapsule-master\server\SPA_WebAPI\SPA_DL\obj\Debug\SPA_DL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FSE\FseCapsule-master\FseCapsule-master\server\SPA_WebAPI\SPA_DL\obj\Debug\SPA_DL.csproj.CopyComplete
+C:\Users\Admin\Desktop\FSE\FseCapsule-master\FseCapsule-master\server\SPA_WebAPI\SPA_DL\obj\Debug\SPA_DL.dll
+C:\Users\Admin\Desktop\FSE\FseCapsule-master\FseCapsule-master\server\SPA_WebAPI\SPA_DL\obj\Debug\SPA_DL.pdb
